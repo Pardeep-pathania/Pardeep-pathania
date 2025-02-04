@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi👋, This is Pardeep Singh Pathania
 
-# 💫 About Me:
+# 💫 Frontend Developer <br>
+   Targetting Fullstack Development
  Hi, This is Pardeep Singh Pathania<br><br>Make it work, make it right, make it fast.<br><br><br><br>Expertise in React, Javascript, Redux, React-Router, HTML, CSS , TAILWIND CSS<br>& PYTHON
 
 
